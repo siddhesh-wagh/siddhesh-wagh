@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+	
+<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Siddhesh this side!</h1>
 
-<!--
-**siddhesh-wagh/siddhesh-wagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`A Man Who Codes & Designs Using His Hidden Creativity.`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#"><img src="assets/technologist.png" width="150"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhesh-wagh&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh-wagh" /> </p>
+<p align="center">
+	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
+</p>
+</div>
