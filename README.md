@@ -4,7 +4,7 @@
 
 `A Man Who Codes & Designs Using His Hidden Creativity.`
 
-<a href="#"><img src="assets/profile.avif" width="150"></a>
+<a href="#"><img src="assets/profilee.jpg" width="150"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhesh-wagh&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh-wagh" /> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
