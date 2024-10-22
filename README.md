@@ -10,7 +10,6 @@
 	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
 </p>
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhesh-wagh&theme=react-dark&hide_border=true&area=true)
-
 </div>
 ## 🙋🏻‍♂️ About Me
 
