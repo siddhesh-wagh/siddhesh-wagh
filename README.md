@@ -14,7 +14,7 @@
 <!-- GitHub Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhesh-wagh&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 
-![siddhesh-wagh's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-wagh&border=true&border_color=00ACC1&theme=transparent&disable_animations=true)
+![siddhesh-wagh's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-wagh&border=true&border_radius=8.5&stroke=3&border_color=00ACC1&theme=algolia&disable_animations=true)
 
 
 </div>
