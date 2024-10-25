@@ -12,10 +12,10 @@
 <h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
 
 <!-- GitHub Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhesh-wagh&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhesh-wagh&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" 
 
+ <!-- GitHub Streak Stats -->
 ![siddhesh-wagh's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-wagh&border=true&border_color=00ACC1&theme=algolia&disable_animations=true)
-
 
 </div>
 
