@@ -14,6 +14,9 @@
 <!-- GitHub Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhesh-wagh&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 
+![siddhesh-wagh's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-wagh&border=true&border_color=00ACC1&theme=radical&disable_animations=true)
+
+
 </div>
 
 ## 🙋🏻‍♂️ About Me
