@@ -15,7 +15,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhesh-wagh&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
 
 ![siddhesh-wagh's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-wagh&border=true&border_color=00ACC1&theme=algolia&disable_animations=true)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-wagh&theme=algolia)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-wagh&layout=compact&theme=algolia&hide_border=true&border_radius=8)
 
 </div>
