@@ -33,15 +33,37 @@ Hello! I'm **Siddhesh Wagh**, a **Diploma graduate** in **Computer Engineering**
 
 I may not have extensive professional experience as a web designer yet, but I’m actively **learning** and improving my skills in **web development**. I’m excited about diving deeper into the world of **web design** and **software development** while working on projects that showcase my growth.
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-I'm proficient in the following programming languages and tools:
-- **C, C++, Java, Advanced Java**
+Here are some of the languages, frameworks, and tools I've worked with:
+
+### 👨‍💻 Programming Languages
+- **C / C++**
+- **Java / Advanced Java**
 - **Python**
-- **Android Development**
-- **HTML, CSS, Bootstrap**
-- **PHP**
 - **JavaScript**
+- **PHP**
+
+### 🌐 Web Development
+- **HTML / CSS / Bootstrap**
+- **React.js**
+- **Node.js / Express.js**
+
+### 🔐 Authentication & Security
+- **JWT (JSON Web Tokens)**
+
+### 📱 Mobile Development
+- **Android Development (Java)**
+
+### ☁️ Backend & Cloud Tools
+- **Firebase**
+
+### 🗄️ Databases & Tools
+- **phpMyAdmin**
+- **MySQL**
+
+### 📦 Others
+- Familiar with version control (Git)
 
 ### 🎯 Goals & Learning Journey
 
