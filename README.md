@@ -33,37 +33,57 @@ Hello! I'm **Siddhesh Wagh**, a **Diploma graduate** in **Computer Engineering**
 
 I may not have extensive professional experience as a web designer yet, but I’m actively **learning** and improving my skills in **web development**. I’m excited about diving deeper into the world of **web design** and **software development** while working on projects that showcase my growth.
 
+---
+
 ## 🛠️ Skills & Technologies
 
-Here are some of the languages, frameworks, and tools I've worked with:
+Here’s a breakdown of the technologies and tools I work with:
+
+---
 
 ### 👨‍💻 Programming Languages
-- **C / C++**
-- **Java / Advanced Java**
-- **Python**
-- **JavaScript**
-- **PHP**
+- 💻 **C / C++**
+- ☕ **Java / Advanced Java**
+- 🐍 **Python**
+- 🌐 **JavaScript**
+- 🐘 **PHP**
 
-### 🌐 Web Development
-- **HTML / CSS / Bootstrap**
-- **React.js**
-- **Node.js / Express.js**
+---
+
+### 🌍 Web Development
+- 🧱 **HTML / CSS / Bootstrap**
+- ⚛️ **React.js**
+- 🚀 **Node.js / Express.js**
+
+---
 
 ### 🔐 Authentication & Security
-- **JWT (JSON Web Tokens)**
+- 🛡️ **JWT (JSON Web Tokens)**
 
-### 📱 Mobile Development
-- **Android Development (Java)**
+---
 
-### ☁️ Backend & Cloud Tools
-- **Firebase**
+### 📱 Mobile App Development
+- 🤖 **Android Development (Java / Kotlin)**
 
-### 🗄️ Databases & Tools
-- **phpMyAdmin**
-- **MySQL**
+---
 
-### 📦 Others
-- Familiar with version control (Git)
+### ☁️ Backend & Cloud Services
+- 🔥 **Firebase**
+
+---
+
+### 🗄️ Databases & Management Tools
+- 🐬 **MySQL**
+- 🧩 **phpMyAdmin**
+
+---
+
+### 🧰 Other Tools
+- 🗃️ **Git / GitHub**
+- 🔧 Always learning and building!
+
+---
+
 
 ### 🎯 Goals & Learning Journey
 
