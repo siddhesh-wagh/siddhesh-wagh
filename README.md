@@ -11,6 +11,11 @@
 
 <h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
 
+[![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1pZwsIHAnpTwMehME6WdsCyp2J9RDtbmV/view?usp=drive_link)
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-orange?style=for-the-badge&logo=firefox)](https://siddhesh-wagh.github.io/portfolio/)
+
+
 <!-- GitHub Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhesh-wagh&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
 
